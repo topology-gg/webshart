@@ -29,7 +29,7 @@ dependencies = [
 ]
 
 [project.optional-dependencies]
-hub = ["huggingface-hub>=1.0.0,<2.0.0"]
+hub = ["huggingface-hub>=1.0.0,<3.0.0"]
 
 [project.scripts]
 webshart = "webshart:main"
